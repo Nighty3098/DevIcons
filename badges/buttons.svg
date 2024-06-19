@@ -23,15 +23,15 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.59468254"
-     inkscape:cx="1781.6228"
-     inkscape:cy="-389.28333"
-     inkscape:window-width="2544"
-     inkscape:window-height="1368"
-     inkscape:window-x="8"
-     inkscape:window-y="32"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer50" />
+     inkscape:zoom="0.42050406"
+     inkscape:cx="1430.4262"
+     inkscape:cy="-293.69515"
+     inkscape:window-width="2560"
+     inkscape:window-height="1384"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6" />
   <defs
      id="defs1">
     <rect
@@ -76,6 +76,12 @@
        width="2194.0031"
        height="330.48965"
        id="rect3-1-0-2" />
+    <rect
+       x="18.481049"
+       y="125.10945"
+       width="2194.0032"
+       height="330.48965"
+       id="rect3-1-0-2-6" />
   </defs>
   <g
      inkscape:label="Portfolio"
@@ -96,9 +102,9 @@
        transform="matrix(0.26458333,0,0,0.26458333,266.96613,92.939603)"><tspan
          x="18.480469"
          y="272.76895"
-         id="tspan5"><tspan
+         id="tspan4"><tspan
            style="fill:#0d1117"
-           id="tspan1">Portfolio</tspan></tspan></text>
+           id="tspan3">Portfolio</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -119,9 +125,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-8);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="18.480469"
          y="272.76895"
-         id="tspan7"><tspan
+         id="tspan14"><tspan
            style="fill:#0d1117"
-           id="tspan6">Telegram</tspan></tspan></text>
+           id="tspan5">Telegram</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -143,7 +149,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1);display:inline;fill:#0d1117;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="18.480469"
          y="272.76895"
-         id="tspan8">Reddit</tspan></text>
+         id="tspan15">Reddit</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -164,7 +170,7 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-3);display:inline;fill:#0d1117;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="18.480469"
          y="272.76895"
-         id="tspan9">Button</tspan></text>
+         id="tspan16">Button</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -185,9 +191,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-0);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="18.480469"
          y="272.76895"
-         id="tspan11"><tspan
+         id="tspan18"><tspan
            style="fill:#0d1117;stroke:#0d1117"
-           id="tspan10">Discord</tspan></tspan></text>
+           id="tspan17">Discord</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -208,8 +214,32 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-0-2);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="18.480469"
          y="272.76895"
-         id="tspan13"><tspan
+         id="tspan20"><tspan
            style="fill:#0d1117"
-           id="tspan12">Join our server in discord</tspan></tspan></text>
+           id="tspan19">Join our server in discord</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Freelance"
+     style="display:inline">
+    <rect
+       style="display:inline;mix-blend-mode:normal;fill:#90e9f9;fill-opacity:1;fill-rule:nonzero;stroke:#90e9f9;stroke-width:17.6314;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="rect1-2-7-9-0-6-5"
+       width="598.06525"
+       height="62.207123"
+       x="113.39709"
+       y="-179.51495"
+       ry="1.1072104" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,181.02162,-208.40654)"
+       id="text3-9-1-8-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-0-2-6);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
+         x="18.480469"
+         y="272.76895"
+         id="tspan22"><tspan
+           style="fill:#0d1117"
+           id="tspan21">My freelance projects</tspan></tspan></text>
   </g>
 </svg>
