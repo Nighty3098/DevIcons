@@ -7,7 +7,10 @@
 
 | icon                                                                                                             | Badge name       | link                                                                                   |
 | :--------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------- |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_Portfolio_Social.png?raw=true" width="160px" /> | Portfolio button | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_Portfolio_Social.png?raw=true` |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true" width="160px" /> | Portfolio | `https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true` |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true" width="160px" /> | Discord server | `https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true` |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Telegram_2.png?raw=true" width="160px" /> | Telegram | `https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Telegram_2.png?raw=true` |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Reddit_2.png?raw=true" width="160px" /> | Reddit | `https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Reddit_2.png?raw=true` |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="160px" />    | Reddit           | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true`    |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="160px" />  | Telegram         | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true`  |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="160px" />   | Discord          | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true`   |
