@@ -5,8 +5,8 @@
 
 <h1 align="center">Social</h1>
 
-| icon                                                                                                             | Badge name       | link                                                                                   | icon                                                                                                             | Badge name       | link                                                                                   |
-| :--------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ---------------| ------------------------------|
+| icon                                                                                                             | Badge name       | link                                                                                   |
+| :--------------------------------------------------------------------------------------------------------------- | ---------------- | -------------------------------------------------------------------------------------- |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true" width="160px" /> | Portfolio | `https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true` |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true" width="160px" /> | Discord server | `https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true` |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Telegram_2.png?raw=true" width="160px" /> | Telegram | `https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Telegram_2.png?raw=true` |
