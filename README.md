@@ -62,3 +62,4 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Jupyter.png?raw=true" width="120px" />   | Jupyter     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Jupyter.png?raw=true`   | 
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_OpenSource.png?raw=true" width="120px" />   | OpenSource     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_OpenSource.png?raw=true`   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" width="120px" />   | postman     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true`   |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_xcode.png?raw=true" width="120px" />   | xcode     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_xcode.png?raw=true`   |
