@@ -14,6 +14,7 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="160px" />    | Reddit           | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true`    |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="160px" />  | Telegram         | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true`  |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="160px" />   | Discord          | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true`   |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_signal.png?raw=true" width="120px" />   | Signal     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_signal.png?raw=true`   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" width="120px" />      | Api        | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true`      |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_bash.png?raw=true" width="120px" />     | BASH       | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_bash.png?raw=true`     |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_cpp.png?raw=true" width="120px" />      | C++        | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_cpp.png?raw=true`      |
@@ -59,7 +60,7 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_inkscape.png?raw=true" width="120px" />   | inkscape     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_inkscape.png?raw=true`   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_canva.png?raw=true" width="120px" />   | canva     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_canva.png?raw=true`   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="120px" />   | figma     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true`   |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Jupyter.png?raw=true" width="120px" />   | Jupyter     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Jupyter.png?raw=true`   | 
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Jupyter.png?raw=true" width="120px" />   | Jupyter     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Jupyter.png?raw=true`   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_OpenSource.png?raw=true" width="120px" />   | OpenSource     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_OpenSource.png?raw=true`   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" width="120px" />   | postman     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true`   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_xcode.png?raw=true" width="120px" />   | xcode     | `https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_xcode.png?raw=true`   |
