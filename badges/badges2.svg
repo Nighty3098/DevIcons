@@ -25,14 +25,14 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1"
-     inkscape:cx="1380.5"
-     inkscape:cy="1146"
+     inkscape:cx="904.5"
+     inkscape:cy="166"
      inkscape:window-width="2560"
      inkscape:window-height="1375"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer56"
+     inkscape:current-layer="layer62"
      showguides="false" /><defs
      id="defs1"><rect
        x="1423.1868"
@@ -618,6 +618,25 @@
          style="fill:#18193f;fill-opacity:1;fill-rule:evenodd"
          id="path6-0" /></g></g><g
      inkscape:groupmode="layer"
+     id="layer62"
+     inkscape:label="ton"
+     style="display:inline"><rect
+       style="display:inline;fill:#90caf9;fill-opacity:1;stroke:#a5d6a7;stroke-width:0;stroke-linecap:round;stroke-miterlimit:4.3;stroke-dasharray:none"
+       id="rect1-2-6-2-9-7-3"
+       width="50"
+       height="50"
+       x="212.92296"
+       y="58.96648"
+       ry="10"
+       rx="10" /><g
+       id="g70"
+       transform="matrix(1.3190803,0,0,1.3190803,200.93991,44.460025)"
+       style="stroke-width:0.999939;stroke-dasharray:none"><path
+         class="st1"
+         d="m 20.2,18.5 h 15.7 c 0.6,0 1.1,0.1 1.7,0.4 0.7,0.3 1.1,0.8 1.3,1.2 0,0 0,0.1 0.1,0.1 0.3,0.5 0.5,1.1 0.5,1.8 0,0.6 -0.1,1.2 -0.5,1.8 0,0 0,0 0,0 l -9.9,17 c -0.2,0.4 -0.6,0.6 -1.1,0.6 -0.4,0 -0.8,-0.2 -1.1,-0.6 l -9.7,-17 c 0,0 0,0 0,0 -0.2,-0.4 -0.6,-0.9 -0.6,-1.7 -0.1,-0.7 0.1,-1.3 0.4,-1.9 0.3,-0.6 0.8,-1.1 1.5,-1.3 0.6,-0.4 1.3,-0.4 1.7,-0.4 z m 6.6,2.4 h -6.6 c -0.4,0 -0.6,0 -0.7,0.1 -0.2,0.1 -0.3,0.2 -0.4,0.4 -0.1,0.1 -0.1,0.3 -0.1,0.5 0,0.1 0.1,0.2 0.3,0.6 0,0 0,0 0,0 l 7.5,13 z m 2.4,0 v 14.7 l 7.6,-13.1 c 0.1,-0.2 0.1,-0.4 0.1,-0.6 0,-0.2 0,-0.4 -0.1,-0.5 -0.1,-0.1 -0.1,-0.2 -0.2,-0.2 0,0 -0.1,-0.1 -0.1,-0.1 C 36.3,21 36.1,21 35.8,21 h -6.6 z"
+         id="path1-9127"
+         style="fill:#18193f;fill-opacity:1;stroke-width:0.999939;stroke-dasharray:none" /></g></g><g
+     inkscape:groupmode="layer"
      id="layer20"
      inkscape:label="sqlite"
      transform="translate(-96.024557,-90.692385)"><rect
@@ -904,7 +923,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-55-3);display:inline;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="526.72856"
-         id="tspan1">QT</tspan></text></g><g
+         id="tspan6">QT</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer33"
      inkscape:label="spotify"><rect
@@ -1106,7 +1125,7 @@
        style="font-size:90.9949px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect1);display:inline;fill:#18193f;fill-opacity:1;stroke:#fcf1dc;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none"><tspan
          x="1423.1875"
          y="687.81652"
-         id="tspan2">GitHub pages</tspan></text></g><g
+         id="tspan7">GitHub pages</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer52"
      inkscape:label="Jupyter"><g
@@ -1335,7 +1354,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:85.5227px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-2-7-1-3);display:inline;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="517.05934"
-         id="tspan3">{ api }</tspan></text></g><g
+         id="tspan8">{ api }</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer25"
      inkscape:label="sfml"><rect
@@ -1441,7 +1460,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:106.12px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-2-7);display:inline;opacity:1;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="536.06803"
-         id="tspan4">JS</tspan></text></g><g
+         id="tspan9">JS</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer47"
      inkscape:label="canva"
@@ -1496,7 +1515,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:106.12px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-2-7-2);display:inline;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="536.06803"
-         id="tspan5">TS</tspan></text></g><g
+         id="tspan10">TS</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer26"
      inkscape:label="replit"><rect
@@ -1552,4 +1571,9 @@
      id="style1">
 	.st0{fill:#FF3E00;}
 	.st1{fill:#FFFFFF;}
+</style><style
+     type="text/css"
+     id="style1-2">
+	.st0{fill:#0088CC;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
 </style></svg>
