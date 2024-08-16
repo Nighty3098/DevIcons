@@ -85,6 +85,7 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_OpenSource.png?raw=true" width="60px" />     | OpenSource     | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_OpenSource.png?raw=true)     |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true" width="60px" />        | postman        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_postman.png?raw=true)        |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_laravel.png?raw=true" width="60px" />        | laravel        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_laravel.png?raw=true)        |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_ton.png?raw=true" width="60px" />            | ton            | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_ton.png?raw=true)            |
 
 </details>
 
