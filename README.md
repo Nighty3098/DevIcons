@@ -9,6 +9,8 @@
 	<br><br>
 	<a href="https://discord.gg/6xEc5WFK"><img  class="badge" src="https://img.shields.io/discord/1238858182403559505.svg?label=Discord&logo=Discord&style=for-the-badge&color=f5a7a0&logoColor=FFFFFF&labelColor=1c1c29" style="border-radius: 5px;"/></a>
 	<br><br><br>
+	<a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/TechSupport.png?raw=true" width="40%" /></a>
+	<br><br>
 
 `Ctrl+F to find the badge`
 
