@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="banner.png" width="90%"/>
+	<img src="https://github.com/user-attachments/assets/b619fb23-a0c5-4849-9365-f5f8c852a7f8" width="90%"/>
 	<img class="badge" src="https://img.shields.io/github/repo-size/Nighty3098/DevIcons?style=for-the-badge&color=ea9de7&logoColor=D9E0EE&labelColor=171b22" style="border-radius: 5px;"/>
 	<a href="./LICENSE.md"><img  class="badge" src="https://img.shields.io/github/license/Nighty3098/DevIcons?style=for-the-badge&color=a6e0b8&logoColor=ffffff&labelColor=1c1c29"  style="border-radius: 5px;"/></a>
 	<img class="badge" src="https://img.shields.io/github/issues/Nighty3098/DevIcons?style=for-the-badge&color=dbb6ed&logoColor=ffffff&labelColor=1c1c29"  style="border-radius: 5px;"/>
@@ -15,6 +15,9 @@
 `Ctrl+F to find the badge`
 
 </div>
+
+<div align="center">
+
 <details>
 <summary>Buttons</summary>
 
@@ -142,3 +145,5 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true" width="60px" />           | figma                | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_figma.png?raw=true)           |
 
 </details>
+
+</div>
