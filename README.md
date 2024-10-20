@@ -63,6 +63,26 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_ruby.png?raw=true" width="60px" />       | ruby       | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_ruby.png?raw=true)       |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true" width="60px" />        | php        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_php.png?raw=true)        |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_gleam.png?raw=true" width="60px" />      | gleam      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_gleam.png?raw=true)      |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_java.png?raw=true" width="60px" />      | java      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_java.png?raw=true)      |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_golang.png?raw=true" width="60px" />      | golang      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_golang.png?raw=true)      |
+
+
+</details>
+
+
+<details>
+<summary>BD</summary>
+
+
+| icon                                                                                                                  | Badge name     | link                                                                                                                      |
+| :-------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="60px" />            | SQL            | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true)          |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" width="60px" />         | SQLite         | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true)       |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="60px" />            | MySql          | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true)          |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_firebase.png?raw=true" width="60px" />       | firebase       | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_firebase.png?raw=true)     |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_pocketbase.png?raw=true" width="60px" />     | pocketbase     | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_pocketbase.png?raw=true)   |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true" width="60px" />       | supabase       | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true)     |
+
 
 </details>
 
@@ -78,9 +98,6 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true" width="60px" />          | react          | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_react.png?raw=true)          |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true" width="60px" />            | Api            | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_api.png?raw=true)            |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true" width="60px" />            | Git            | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_git.png?raw=true)            |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="60px" />            | SQL            | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true)            |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true" width="60px" />         | SQLite         | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sqlite.png?raw=true)         |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="60px" />            | MySql          | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true)            |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_svelte.png?raw=true" width="60px" />         | SvelteKit      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_svelte.png?raw=true)         |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_gitlab.png?raw=true" width="60px" />         | gitlab         | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_gitlab.png?raw=true)         |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_stack_overflow.png?raw=true" width="60px" /> | stack_overflow | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_stack_overflow.png?raw=true) |
