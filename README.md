@@ -81,7 +81,7 @@
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true" width="60px" />            | MySql          | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_sql.png?raw=true)          |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_firebase.png?raw=true" width="60px" />       | firebase       | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_firebase.png?raw=true)     |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_pocketbase.png?raw=true" width="60px" />     | pocketbase     | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_pocketbase.png?raw=true)   |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true" width="60px" />       | supabase       | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true)     |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badge_supabase.png?raw=true" width="60px" />       | supabase       | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_supabase.png?raw=true)     |
 
 
 </details>
