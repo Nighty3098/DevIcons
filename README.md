@@ -34,13 +34,16 @@
 <details>
 <summary>Social</summary>
 
-| icon                                                                                                            | Badge name | link                                                                                                                |
-| :-------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------- |
+| icon                                                                                                            | Badge name | link                                                                                                                  |
+| :-------------------------------------------------------------------------------------------------------------- | ---------- | --------------------------------------------------------------------------------------------------------------------- |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true" width="60px" />   | Reddit     | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_reddit.png?raw=true)   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true" width="60px" /> | Telegram   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_telegram.png?raw=true) |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true" width="60px" />  | Discord    | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord.png?raw=true)  |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_signal.png?raw=true" width="60px" />   | Signal     | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_signal.png?raw=true)   |
 | <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_x.png?raw=true" width="60px" />        | x          | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_x.png?raw=true)        |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_youtube.png?raw=true" width="60px" />  | YouTube    | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_youtube.png?raw=true)  |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linkedIn.png?raw=true" width="60px" /> | LinkedIn   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_linkedIn.png?raw=true) |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_matrix.png?raw=true" width="60px" />   | Matrix     | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_matrix.png?raw=true)   |
 
 </details>
 
