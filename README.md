@@ -10,7 +10,7 @@
 	<br><br>
 	<a href="https://discord.gg/6xEc5WFK"><img  class="badge" src="https://img.shields.io/discord/1238858182403559505.svg?label=Discord&logo=Discord&style=for-the-badge&color=f5a7a0&logoColor=FFFFFF&labelColor=1c1c29" style="border-radius: 5px;"/></a>
 	<br><br><br>
-	<a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png" width="40%" /></a>
+	<a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png" height="35px" /></a>
 	<br><br>
 
 `Ctrl+F to find the badge`
@@ -19,12 +19,12 @@
 
 | icon                                                                                                                  | Badge name     | link                                                                                                                     |
 | :-------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true" height="60px" />      | Portfolio      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true)  |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="60px" />  | Discord server | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true)  |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="60px" />      | Blog      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true)      |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true" height="60px" /> | LinkedIn        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true) |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="60px" />          | Site   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true)                   |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png" height="60px" />          | Tech Support   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true)                   |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true" height="40px" />      | Portfolio      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true)  |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="40px" />  | Discord server | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true)  |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="40px" />      | Blog      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true)      |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true" height="40px" /> | LinkedIn        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true) |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="40px" />          | Site   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true)                   |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png" height="40px" />          | Tech Support   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true)                   |
 
 
 <details>
