@@ -7,13 +7,13 @@
    viewBox="0 0 210 297"
    version="1.1"
    id="svg1"
-   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+   xml:space="preserve"
    sodipodi:docname="buttons.svg"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
      id="namedview1"
      pagecolor="#505050"
      bordercolor="#ffffff"
@@ -23,230 +23,247 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
-     inkscape:zoom="0.59468254"
-     inkscape:cx="1353.6634"
-     inkscape:cy="-209.3554"
-     inkscape:window-width="2560"
-     inkscape:window-height="1384"
-     inkscape:window-x="0"
-     inkscape:window-y="24"
+     inkscape:zoom="1.6820162"
+     inkscape:cx="312.12541"
+     inkscape:cy="593.93006"
+     inkscape:window-width="1947"
+     inkscape:window-height="1363"
+     inkscape:window-x="20"
+     inkscape:window-y="57"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5" />
-  <defs
-     id="defs1">
-    <rect
-       x="1882.0262"
-       y="24.869452"
-       width="885.84707"
-       height="147.9426"
-       id="rect1" />
-    <rect
-       x="18.481048"
-       y="125.10945"
-       width="732.07594"
-       height="217.41232"
-       id="rect3" />
-    <rect
-       x="18.481049"
-       y="125.10945"
-       width="732.07593"
-       height="217.41232"
-       id="rect3-8" />
-    <rect
-       x="18.481049"
-       y="125.10945"
-       width="732.07593"
-       height="217.41232"
-       id="rect3-1" />
-    <rect
-       x="18.481049"
-       y="125.10945"
-       width="732.07593"
-       height="217.41232"
-       id="rect3-1-0" />
-    <rect
-       x="18.481049"
-       y="125.10945"
-       width="732.07593"
-       height="217.41232"
-       id="rect3-1-3" />
-    <rect
-       x="18.481049"
-       y="125.10945"
-       width="2194.0031"
-       height="330.48965"
-       id="rect3-1-0-2" />
-    <rect
-       x="18.481049"
-       y="125.10945"
-       width="2194.0032"
-       height="330.48965"
-       id="rect3-1-0-2-6" />
-  </defs>
-  <g
-     inkscape:label="Portfolio"
+     inkscape:current-layer="layer3" /><defs
+     id="defs1" /><g
+     inkscape:label="blog"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="mix-blend-mode:normal;fill:#a5d6ac;fill-rule:nonzero;stroke:#a5d6ac;stroke-width:11.369;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect1-2-7"
-       width="225.92339"
-       height="68.469543"
-       x="249.98927"
-       y="114.80358"
-       ry="10"
-       rx="10" />
-    <text
+     id="layer1"
+     style="opacity:1"><rect
+       style="fill:#f9f690;fill-opacity:1;stroke:none;stroke-width:1.15941;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-9"
+       width="86.572235"
+       height="30"
+       x="2.5427577"
+       y="2.3486295"
+       ry="5" /><rect
+       style="fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.14883;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1"
+       width="25"
+       height="25"
+       x="5.042758"
+       y="4.8486295"
+       ry="5" /><g
+       style="fill:#f9f690;fill-opacity:1"
+       id="g1"
+       transform="matrix(0.51129179,0,0,0.70278347,11.407256,8.9152283)"><path
+         d="M 22.539,8.242 H 1.46 V 5.406 H 22.54 V 8.242 Z M 1.46,10.812 V 24 L 12,18.11 22.54,24 V 10.812 Z M 22.54,0 H 1.46 v 2.836 h 21.08 z"
+         id="path1"
+         style="fill:#f9f690;fill-opacity:1" /></g><text
        xml:space="preserve"
-       id="text3"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3);display:inline;opacity:1;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       transform="matrix(0.26458333,0,0,0.26458333,266.96613,92.939603)"><tspan
-         x="18.480469"
-         y="272.76895"
-         id="tspan2"><tspan
-           style="fill:#0d1117"
-           id="tspan1">Portfolio</tspan></tspan></text>
-  </g>
-  <g
+       style="font-size:17.6389px;font-family:'Maple Mono';-inkscape-font-specification:'Maple Mono,  weight=275';fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       x="37.920128"
+       y="23.562725"
+       id="text5"><tspan
+         id="tspan5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';stroke-width:1.32292;fill:#18193f;fill-opacity:1"
+         x="37.920128"
+         y="23.562725"
+         sodipodi:role="line">BLOG</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Telegram">
-    <rect
-       style="mix-blend-mode:normal;fill:#90e9f9;fill-opacity:1;fill-rule:nonzero;stroke:#90e9f9;stroke-width:11.369;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect1-2-7-7"
-       width="225.92339"
-       height="68.469543"
-       x="244.1868"
-       y="214.34541"
-       ry="10"
-       rx="10" />
-    <text
+     inkscape:label="discord_server"
+     style="opacity:1"><rect
+       style="fill:#bf90f9;fill-opacity:1;stroke:none;stroke-width:1.28299;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-9-2"
+       width="106.01155"
+       height="30"
+       x="2.0214107"
+       y="35.672016"
+       ry="5" /><rect
+       style="fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.14883;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-0"
+       width="25"
+       height="25"
+       x="4.5214109"
+       y="38.172016"
+       ry="5" /><text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,256.2854,187.29312)"
-       id="text3-7"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-8);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
-         x="18.480469"
-         y="272.76895"
-         id="tspan4"><tspan
-           style="fill:#0d1117"
-           id="tspan3">Telegram</tspan></tspan></text>
-  </g>
-  <g
+       style="font-size:17.6389px;font-family:'Maple Mono';-inkscape-font-specification:'Maple Mono,  weight=275';fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       x="37.398781"
+       y="56.886112"
+       id="text5-1"><tspan
+         id="tspan5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#18193f;fill-opacity:1;stroke-width:1.32292"
+         x="37.398781"
+         y="56.886112"
+         sodipodi:role="line">SERVER</tspan></text><g
+       style="fill:#bf90f9;fill-opacity:1"
+       id="g5"
+       transform="matrix(0.70550289,0,0,0.70550289,8.5553674,42.205988)"><path
+         d="M 20.317,4.3698 A 19.7913,19.7913 0 0 0 15.4319,2.8546 0.0741,0.0741 0 0 0 15.3534,2.8917 C 15.1424,3.267 14.9087,3.7565 14.7451,4.1412 12.9004,3.865 11.0651,3.865 9.2583,4.1412 9.0947,3.7479 8.8525,3.267 8.6406,2.8917 A 0.077,0.077 0 0 0 8.5621,2.8547 19.7363,19.7363 0 0 0 3.6769,4.3697 0.0699,0.0699 0 0 0 3.6448,4.3974 C 0.5334,9.0458 -0.319,13.5799 0.0992,18.0578 a 0.0824,0.0824 0 0 0 0.0312,0.0561 c 2.0528,1.5076 4.0413,2.4228 5.9929,3.0294 a 0.0777,0.0777 0 0 0 0.0842,-0.0276 c 0.4616,-0.6304 0.8731,-1.2952 1.226,-1.9942 A 0.076,0.076 0 0 0 7.3919,19.0158 C 6.7391,18.7682 6.1176,18.4663 5.5197,18.1235 A 0.077,0.077 0 0 1 5.5121,17.9958 c 0.1258,-0.0943 0.2517,-0.1923 0.3718,-0.2914 a 0.0743,0.0743 0 0 1 0.0776,-0.0105 c 3.9278,1.7933 8.18,1.7933 12.0614,0 a 0.0739,0.0739 0 0 1 0.0785,0.0095 c 0.1202,0.099 0.246,0.1981 0.3728,0.2924 a 0.077,0.077 0 0 1 -0.0066,0.1276 12.2986,12.2986 0 0 1 -1.873,0.8914 0.0766,0.0766 0 0 0 -0.0407,0.1067 c 0.3604,0.698 0.7719,1.3628 1.225,1.9932 a 0.076,0.076 0 0 0 0.0842,0.0286 c 1.961,-0.6067 3.9495,-1.5219 6.0023,-3.0294 a 0.077,0.077 0 0 0 0.0313,-0.0552 C 24.3971,12.8817 23.0585,8.3848 20.3482,4.3983 A 0.061,0.061 0 0 0 20.317,4.3697 Z M 8.02,15.3312 c -1.1825,0 -2.1569,-1.0857 -2.1569,-2.419 0,-1.3332 0.9555,-2.4189 2.157,-2.4189 1.2108,0 2.1757,1.0952 2.1568,2.419 0,1.3332 -0.9555,2.4189 -2.1569,2.4189 z m 7.9748,0 c -1.1825,0 -2.1569,-1.0857 -2.1569,-2.419 0,-1.3332 0.9554,-2.4189 2.1569,-2.4189 1.2108,0 2.1757,1.0952 2.1568,2.419 0,1.3332 -0.946,2.4189 -2.1568,2.4189 z"
+         id="path1-5"
+         style="fill:#bf90f9;fill-opacity:1" /></g><g
+       id="SVGRepo_bgCarrier"
+       stroke-width="0"
+       transform="matrix(0.93389217,0,0,0.93389217,-26.979929,71.770279)" /><g
+       id="SVGRepo_tracerCarrier"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.93389217,0,0,0.93389217,-26.979929,71.770279)" /></g><g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Reddit"
-     style="display:inline">
-    <rect
-       style="mix-blend-mode:normal;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:11.369;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect1-2-7-9"
-       width="225.92339"
-       height="68.469543"
-       x="249.51811"
-       y="307.10544"
-       ry="10"
-       rx="10" />
-    <text
+     inkscape:label="LinkedIn_badge"
+     style="opacity:1"><rect
+       style="opacity:1;fill:#90caf9;fill-opacity:1;stroke:none;stroke-width:1.35003;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-9-2-4-8"
+       width="117.38036"
+       height="30"
+       x="2.9704528"
+       y="103.37374"
+       ry="5" /><rect
+       style="opacity:1;fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.14883;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-0-5-6"
+       width="25"
+       height="25"
+       x="5.074347"
+       y="105.87374"
+       ry="5" /><text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,288.54013,285.24146)"
-       id="text3-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1);display:inline;fill:#0d1117;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
-         x="18.480469"
-         y="272.76895"
-         id="tspan5">Reddit</tspan></text>
-  </g>
-  <g
+       style="font-size:17.6389px;font-family:'Maple Mono';-inkscape-font-specification:'Maple Mono,  weight=275';opacity:1;fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       x="38.347824"
+       y="124.58784"
+       id="text5-1-2-8"><tspan
+         id="tspan5-5-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#18193f;fill-opacity:1;stroke-width:1.32292"
+         x="38.347824"
+         y="124.58784"
+         sodipodi:role="line">LINKEDIN</tspan></text><g
+       fill="none"
+       fill-rule="evenodd"
+       id="g2-9"
+       transform="matrix(0.30769231,0,0,0.30769231,6.4974239,107.29682)"
+       style="fill:#90caf9;fill-opacity:1"><path
+         d="M 62,62 H 51.315625 V 43.802115 c 0,-4.989361 -1.895833,-7.777583 -5.844922,-7.777583 -4.296094,0 -6.540625,2.901578 -6.540625,7.777583 V 62 H 28.633333 V 27.333333 h 10.296745 v 4.669595 c 0,0 3.095964,-5.728713 10.452474,-5.728713 C 56.735677,26.274215 62,30.764471 62,40.051212 Z M 16.349349,22.794013 C 12.842057,22.794013 10,19.929657 10,16.397007 10,12.864357 12.842057,10 16.349349,10 c 3.507292,0 6.347656,2.864357 6.347656,6.397007 0,3.53265 -2.840364,6.397006 -6.347656,6.397006 z M 11.032552,62 H 21.769401 V 27.333333 H 11.032552 Z"
+         fill="#ffffff"
+         id="path2-0"
+         style="fill:#90caf9;fill-opacity:1" /></g><g
+       id="SVGRepo_bgCarrier-1"
+       stroke-width="0"
+       transform="matrix(0.8,0,0,0.8,6.8056983,146.28129)" /><g
+       id="SVGRepo_tracerCarrier-7"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(0.8,0,0,0.8,6.8056983,146.28129)" /></g><g
      inkscape:groupmode="layer"
      id="layer5"
-     inkscape:label="Button">
-    <rect
-       style="display:inline;mix-blend-mode:normal;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:11.369;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect1-2-7-9-6"
-       width="225.92339"
-       height="68.469543"
-       x="249.10078"
-       y="409.84879"
-       ry="10"
-       rx="10" />
-    <text
+     inkscape:label="Site"><rect
+       style="opacity:1;fill:#f9ac90;fill-opacity:1;stroke:none;stroke-width:1.09518;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-9-2-4-8-6"
+       width="77.245697"
+       height="30"
+       x="3.953274"
+       y="136.64371"
+       ry="5" /><rect
+       style="opacity:1;fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.14883;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-0-5-6-6"
+       width="25"
+       height="25"
+       x="6.057169"
+       y="139.14371"
+       ry="5" /><text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,285.8077,386.53787)"
-       id="text3-9-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-3);display:inline;fill:#0d1117;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
-         x="18.480469"
-         y="272.76895"
-         id="tspan6">Button</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer4"
-     inkscape:label="discord">
-    <rect
-       style="mix-blend-mode:normal;fill:#a090f9;fill-opacity:1;fill-rule:nonzero;stroke:#a090f9;stroke-width:11.369;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect1-2-7-9-0"
-       width="225.92339"
-       height="68.469543"
-       x="250.73242"
-       y="20.41329"
-       ry="10"
-       rx="10" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,277.89988,-1.4506764)"
-       id="text3-9-1"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-0);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
-         x="18.480469"
-         y="272.76895"
-         id="tspan8"><tspan
-           style="fill:#0d1117;stroke:#0d1117"
-           id="tspan7">Discord</tspan></tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
-     id="layer50"
-     inkscape:label="ds_server">
-    <rect
-       style="mix-blend-mode:normal;fill:#a090f9;fill-opacity:1;fill-rule:nonzero;stroke:#a090f9;stroke-width:17.6314;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect1-2-7-9-0-6"
-       width="598.06525"
-       height="62.207123"
-       x="112.076"
-       y="-86.934326"
-       ry="10"
-       rx="10" />
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,145.39771,-111.92951)"
-       id="text3-9-1-8"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-0-2);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
-         x="18.480469"
-         y="272.76895"
-         id="tspan10"><tspan
-           style="fill:#0d1117"
-           id="tspan9">Join our server in discord</tspan></tspan></text>
-  </g>
-  <g
+       style="opacity:1;font-size:17.6389px;font-family:'Maple Mono';-inkscape-font-specification:'Maple Mono,  weight=275';fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       x="39.330647"
+       y="157.8578"
+       id="text5-1-2-8-4"><tspan
+         id="tspan5-5-5-8-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#18193f;fill-opacity:1;stroke-width:1.32292"
+         x="39.330647"
+         y="157.8578"
+         sodipodi:role="line">SITE</tspan></text><g
+       id="SVGRepo_iconCarrier-2"
+       transform="matrix(0.96666666,0,0,0.96666666,9.857169,142.94371)"
+       style="opacity:1;fill:#f9ac90;fill-opacity:1"><g
+         id="g1-2"
+         style="fill:#f9ac90;fill-opacity:1"><path
+           d="M 9,0 C 4.03,0 0,4.03 0,9 c 0,4.97 4.03,9 9,9 4.97,0 9,-4.03 9,-9 C 18,4.03 13.97,0 9,0 Z m 2.92,12.34 c 0,0.35 0.14,0.63 0.36,0.66 0.22,0.03 0.47,-0.22 0.58,-0.6 l 0.2,0.08 c 0.718,0.384 1.07,1.22 0.84,2 -0.15,0.69 -0.743,1.198 -1.45,1.24 C 11.96,14.51 10.34,15.78 8.89,15.5 8.278,15.346 7.78,14.9 7.56,14.31 8.75,14.2 10.41,12.58 11.92,12.34 Z M 8,11.27 c 0.918,0 1.695,-0.68 1.82,-1.59 0.44,0.54 0.41,1.324 -0.07,1.83 C 9.495,11.733 9.156,11.835 8.82,11.79 8.485,11.743 8.185,11.554 8,11.27 Z m 3,-0.76 c 0.41,0.39 3,-0.06 3.52,1.09 -0.95,-0.2 -2.95,0.61 -3.47,-1.08 z M 9.73,5.45 V 5.72 C 9.08,4.95 8.4,4.65 8.12,5.15 7.84,5.65 9.12,6.26 8.88,7.03 8.64,7.8 7.61,7.59 7,8.64 6.39,9.69 6.51,11.06 8.24,12.31 7.048,12.178 6.05,11.348 5.7,10.2 5.3,9 5.61,7.94 4.92,7.74 4,7.46 3,8.71 3,9.8 1.74,8.54 3.05,6.94 1.8,5.62 3.5,1.998 7.644,0.223 11.44,1.49 10.34,2.51 9.718,3.948 9.73,5.45 Z"
+           id="path1-2"
+           style="fill:#f9ac90;fill-opacity:1" /></g></g></g><g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Freelance"
-     style="display:inline">
-    <rect
-       style="display:inline;mix-blend-mode:normal;fill:#90e9f9;fill-opacity:1;fill-rule:nonzero;stroke:#90e9f9;stroke-width:17.631;stroke-linecap:butt;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       id="rect1-2-7-9-0-6-5"
-       width="598.06525"
-       height="62.207123"
-       x="113.39709"
-       y="-179.51495"
-       ry="10"
-       rx="10" />
-    <text
+     inkscape:label="TechSupport"><rect
+       style="opacity:1;fill:#a0ff98;fill-opacity:1;stroke:none;stroke-width:1.61136;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-9-2-4-1"
+       width="167.22226"
+       height="30"
+       x="4.1095262"
+       y="171.51019"
+       ry="5" /><rect
+       style="opacity:1;fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.14883;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-0-5-7"
+       width="25"
+       height="25"
+       x="6.2134204"
+       y="174.01019"
+       ry="5" /><text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,181.02162,-208.40654)"
-       id="text3-9-1-8-9"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:160px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect3-1-0-2-6);display:inline;fill:#f990a9;fill-opacity:1;fill-rule:nonzero;stroke:#f990a9;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:20;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
-         x="18.480469"
-         y="272.76895"
-         id="tspan12"><tspan
-           style="fill:#0d1117"
-           id="tspan11">My freelance projects</tspan></tspan></text>
-  </g>
-</svg>
+       style="font-size:17.6389px;font-family:'Maple Mono';-inkscape-font-specification:'Maple Mono,  weight=275';opacity:1;fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       x="39.4869"
+       y="192.72429"
+       id="text5-1-2-7"><tspan
+         id="tspan5-5-5-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#18193f;fill-opacity:1;stroke-width:1.32292"
+         x="39.4869"
+         y="192.72429"
+         sodipodi:role="line">TECH SUPPORT</tspan></text><g
+       id="SVGRepo_bgCarrier-0"
+       stroke-width="0"
+       transform="matrix(2.1081953,0,0,2.2216899,-60.019093,62.462949)" /><g
+       id="SVGRepo_tracerCarrier-6"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       transform="matrix(2.1081953,0,0,2.2216899,-60.019093,62.462949)" /><g
+       id="SVGRepo_iconCarrier-1"
+       transform="matrix(1.4166678,0,0,1.492934,7.3800714,174.56672)"
+       style="fill:#a0ff98;fill-opacity:1"><path
+         class="cls-1"
+         d="M 12.28592,11.7143 6.49472,5.92372 A 2.50375,2.50375 0 0 0 6.6643,5.16932 2.14905,2.14905 0 0 0 6.56956,4.35494 2.11972,2.11972 0 0 0 6.02085,3.45063 2.32771,2.32771 0 0 0 4.26006,2.76616 H 4.21515 A 2.104,2.104 0 0 0 3.49686,2.92104 L 4.59925,4.02518 4.91846,4.34494 5.16291,4.58975 A 1.864,1.864 0 0 1 4.94343,5.4441 1.04314,1.04314 0 0 1 4.82868,5.58898 1.64822,1.64822 0 0 1 3.82609,5.92372 L 2.609,4.70468 2.16005,4.255 A 2.07386,2.07386 0 0 0 2.02536,4.79957 L 2.01036,4.9045 A 2.33671,2.33671 0 0 0 2.39443,6.42332 2.50928,2.50928 0 0 0 2.68874,6.78307 2.20549,2.20549 0 0 0 4.265,7.43257 2.45325,2.45325 0 0 0 5.16289,7.25772 l 4.79359,4.79628 1.20212,1.19909 h 0.6684 l 0.66343,-0.6645 v -0.6695 z m -6.53561,-2.806 1.3662,1.3662 -2.98759,2.9876 H 3.20558 L 2.75521,12.81172 V 11.8959 Z M 14,5.90569 12.19094,7.71475 10.89232,6.49869 9.5111,7.87992 8.1449,6.51372 9.51861,5.13249 7.89717,3.5111 8.58029,2.7379 l 2.252,0.45042 z"
+         id="path1-59"
+         style="fill:#a0ff98;fill-opacity:1" /></g></g><g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Portfolio"
+     style="opacity:1"><rect
+       style="opacity:1;fill:#a0ff98;fill-opacity:1;stroke:none;stroke-width:1.44897;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-9-2-4"
+       width="135.21523"
+       height="30"
+       x="1.673179"
+       y="69.487892"
+       ry="5" /><rect
+       style="opacity:1;fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.14883;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       id="rect1-0-5"
+       width="25"
+       height="25"
+       x="3.7770731"
+       y="71.987892"
+       ry="5" /><text
+       xml:space="preserve"
+       style="opacity:1;font-size:17.6389px;font-family:'Maple Mono';-inkscape-font-specification:'Maple Mono,  weight=275';fill:#18193f;fill-opacity:1;stroke:none;stroke-width:1.32292;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;paint-order:fill markers stroke"
+       x="37.050552"
+       y="90.701988"
+       id="text5-1-2"><tspan
+         id="tspan5-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';fill:#18193f;fill-opacity:1;stroke-width:1.32292"
+         x="37.050552"
+         y="90.701988"
+         sodipodi:role="line">PORTFOLIO</tspan></text><g
+       id="SVGRepo_iconCarrier"
+       transform="matrix(0.61302683,0,0,0.61302683,6.4379927,74.679463)"
+       style="opacity:1;fill:#a0ff98;fill-opacity:1"> <g
+   id="g2"
+   style="fill:#a0ff98;fill-opacity:1"> <path
+   d="M 26,9 H 23.4 C 22.2,6 19.3,4 16,4 12.7,4 9.8,6 8.6,9 H 6 C 4.3,9 3,10.3 3,12 v 0.6 C 3,16.1 5.9,19 9.4,19 h 13.3 c 3.5,0 6.4,-2.9 6.4,-6.4 V 12 C 29,10.3 27.7,9 26,9 Z M 16,6 c 2.2,0 4.1,1.2 5.2,3 H 10.8 c 1.1,-1.8 3,-3 5.2,-3 z"
+   id="path1-4"
+   style="fill:#a0ff98;fill-opacity:1" /> <path
+   d="m 23,21 c 0,0 0,0 0,0 v 2 c 0,0.6 -0.4,1 -1,1 -0.6,0 -1,-0.4 -1,-1 V 21 H 11 v 2 c 0,0.6 -0.4,1 -1,1 -0.6,0 -1,-0.4 -1,-1 v -2 c 0,0 0,0 0,0 C 6.6,20.9 4.5,19.8 3,18.1 V 25 c 0,1.7 1.3,3 3,3 h 20 c 1.7,0 3,-1.3 3,-3 v -6.9 c -1.5,1.7 -3.6,2.8 -6,2.9 z"
+   id="path2"
+   style="fill:#a0ff98;fill-opacity:1" /> </g> </g></g></svg>
