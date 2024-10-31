@@ -9,27 +9,22 @@
 	<br><br>
 	<a href="https://discord.gg/6xEc5WFK"><img  class="badge" src="https://img.shields.io/discord/1238858182403559505.svg?label=Discord&logo=Discord&style=for-the-badge&color=f5a7a0&logoColor=FFFFFF&labelColor=1c1c29" style="border-radius: 5px;"/></a>
 	<br><br><br>
-	<a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/TechSupport.png?raw=true" width="40%" /></a>
+	<a href="https://t.me/DXS_TechSupport_bot"><img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png" width="40%" /></a>
 	<br><br>
 
 `Ctrl+F to find the badge`
 
 </div>
 
-<div align="center">
-
-<details>
-<summary>Buttons</summary>
-
 | icon                                                                                                                  | Badge name     | link                                                                                                                     |
 | :-------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/PortfolioButton.png?raw=true" width="300px" />      | Portfolio      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_Portfolio_2.png?raw=true)  |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/DiscordServerButton.png?raw=true" width="300px" />  | Discord server | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/buttons_ds_server_2.png?raw=true)  |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/FreelanceButton.png?raw=true" width="300px" />      | Freelance      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/FreelanceButton.png?raw=true)      |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/GitRollProfileButton.png?raw=true" width="300px" /> | GitRoll        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/GitRollProfileButton.png?raw=true) |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/TechSupport.png?raw=true" width="300px" />          | Tech Support   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/TechSupport.png)                   |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true" width="300px" />      | Portfolio      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true)  |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" width="300px" />  | Discord server | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true)  |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" width="300px" />      | Blog      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true)      |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true" width="300px" /> | LinkedIn        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true) |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" width="300px" />          | Site   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true)                   |
+| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png" width="300px" />          | Tech Support   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true)                   |
 
-</details>
 
 <details>
 <summary>Social</summary>
