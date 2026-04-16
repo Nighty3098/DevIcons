@@ -17,16 +17,6 @@
 
 </div>
 
-| icon                                                                                                                  | Badge name     | link                                                                                                                     |
-| :-------------------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true" height="40px" />      | Portfolio      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Portfolio.png?raw=true)  |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true" height="40px" />  | Discord server | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_discord_server.png?raw=true)  |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true" height="40px" />      | Blog      | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_blog.png?raw=true)      |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true" height="40px" /> | LinkedIn        | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_LinkedIn_badge.png?raw=true) |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true" height="40px" />          | Site   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_Site.png?raw=true)                   |
-| <img src="https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png" height="40px" />          | Tech Support   | [<kbd> <br> Open <br> </kbd>](https://github.com/Nighty3098/DevIcons/blob/main/badges/badges_TechSupport.png?raw=true)                   |
-
-
 <details>
 <summary>Social</summary>
 
