@@ -10,7 +10,7 @@
    xml:space="preserve"
    inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
    sodipodi:docname="badges.svg"
-   inkscape:export-batch-name="badges_"
+   inkscape:export-batch-name="badges"
    inkscape:export-batch-path="/home/nighty/Dev/DevIcons/badges"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,7 +27,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="2.0000001"
-     inkscape:cx="429.74998"
+     inkscape:cx="429.99998"
      inkscape:cy="354.49998"
      inkscape:window-width="2528"
      inkscape:window-height="1335"
@@ -2094,7 +2094,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:96px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-55-3);display:inline;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="525.48083"
-         id="tspan1">QT</tspan></text></g><g
+         id="tspan6">QT</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer33"
      inkscape:label="spotify"><rect
@@ -2375,7 +2375,7 @@
        style="font-size:90.9949px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded';white-space:pre;shape-inside:url(#rect1);display:inline;fill:#18193f;fill-opacity:1;stroke:#fcf1dc;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:20;stroke-dasharray:none"><tspan
          x="1423.1875"
          y="686.63385"
-         id="tspan2">GitHub pages</tspan></text></g><g
+         id="tspan7">GitHub pages</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer52"
      inkscape:label="Jupyter"><g
@@ -2708,7 +2708,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:85.5227px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-2-7-1-3);display:inline;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="515.94779"
-         id="tspan3">{ api }</tspan></text></g><g
+         id="tspan8">{ api }</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer25"
      inkscape:label="sfml"><rect
@@ -2853,7 +2853,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:106.12px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-2-7);display:inline;opacity:1;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="534.68877"
-         id="tspan4">JS</tspan></text></g><g
+         id="tspan9">JS</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer47"
      inkscape:label="canva"
@@ -2932,7 +2932,7 @@
        style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:106.12px;font-family:'SF Pro Rounded';-inkscape-font-specification:'SF Pro Rounded, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect4-2-7-2);display:inline;fill:#18193f;fill-opacity:1;stroke:#18193f;stroke-width:0.00000161;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"><tspan
          x="360.20312"
          y="534.68877"
-         id="tspan5">TS</tspan></text></g><g
+         id="tspan10">TS</tspan></text></g><g
      inkscape:groupmode="layer"
      id="layer64"
      inkscape:label="docker"><rect
